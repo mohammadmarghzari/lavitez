@@ -1,3 +1,0 @@
-streamlit
-plotly
-git+https://github.com/Laevitas/Laevitas-sdk.git
